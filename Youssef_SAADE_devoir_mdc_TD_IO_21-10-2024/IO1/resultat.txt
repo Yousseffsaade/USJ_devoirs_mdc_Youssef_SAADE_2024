@@ -1,0 +1,4 @@
+bonjour, comment cela va-t-il ?
+un peu difficile ?
+On peut mettre des entiers : 5
+On peut mettre des instances de Object : 36
